@@ -1,0 +1,27 @@
+
+body {
+    
+    background-color: rgb(87, 134, 173);
+}
+div{
+    text-align: center;
+}
+img {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    
+  }
+p
+{
+    font-size: 50px;
+    size: 100px;
+    color: black;
+    text-align: center;
+}
+a 
+{
+    font-size: 50px;
+ color: black;
+ text-align: center;
+}
